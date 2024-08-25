@@ -12,9 +12,6 @@
 <img width=800 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,ruby,rails">
 
 
-
-
-
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=johnny23ryo&count_private=true&show_icons=true&show_icons=true&theme=algolia"><br>
+<img width=400 src="https://raw.githubusercontent.com/johnny23ryo/johnny23ryo/main/profile-summary-card-output/algolia/3-stats.svg">
 
 
