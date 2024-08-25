@@ -12,6 +12,6 @@
 <img width=800 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,ruby,rails">
 
 
-<img width=400 src="https://raw.githubusercontent.com/johnny23ryo/johnny23ryo/main/profile-summary-card-output/algolia/3-stats.svg">
+<img width=400 src="https://raw.githubusercontent.com/johnny23ryo/johnny23ryo/main/profile-summary-card-output/algolia/4-productive-time.svg"><br>
 
 
