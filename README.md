@@ -17,4 +17,7 @@
 
 
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=johnny23ryo&theme=algolia&column=9"><br>
+
+
+<img width=400 src="https://raw.githubusercontent.com/johnny23ryo/johnny23ryo/main/profile-summary-card-output/algolia/2-most-commit-language.svg"><br>
+<img width=800 src="https://raw.githubusercontent.com/johnny23ryo/johnny23ryo/main/profile-summary-card-output/algolia/0-profile-details.svg"><br>
